@@ -4,10 +4,10 @@
 📫 Gmail: **jumellecamilo@gmail.com**
 
 <h3 align="left">Trabajos escolares:</h3>
-
-- [M02_BaseDatos](https://github.com/cjumelle/Portfoli/tree/main/M02_BaseDatos)
-- [M04_LlenguatgesMarques](https://github.com/cjumelle/Portfoli/tree/main/M04_LlenguatgesMarques)
-- [M03_Programacio](https://github.com/cjumelle/Portfoli/tree/main/M03_Programacio)
+- [Curriculum competencial](https://github.com/cjumelle/Portfoli/blob/main/CV_Competencial)
+- [Trabajos de M02_BaseDatos](https://github.com/cjumelle/Portfoli/tree/main/M02_BaseDatos)
+- [Trabajos de M04_LlenguatgesMarques](https://github.com/cjumelle/Portfoli/tree/main/M04_LlenguatgesMarques)
+- [Trabajos de M03_Programacio](https://github.com/cjumelle/Portfoli/tree/main/M03_Programacio)
 
 
 <h3 align="left">Contacto:</h3>
